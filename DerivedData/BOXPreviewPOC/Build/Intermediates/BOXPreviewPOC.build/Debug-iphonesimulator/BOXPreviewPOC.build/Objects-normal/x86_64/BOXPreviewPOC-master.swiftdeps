@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a60867048a1890b8cb01595c1328f712"
+build_time: [547486999, 550228000]
+inputs:
+  "/Users/mohganabil/Projects/BOXPreviewPOC/BOXPreviewPOC/ViewController.swift": [547485103, 0]
+  "/Users/mohganabil/Projects/BOXPreviewPOC/BOXPreviewPOC/AppDelegate.swift": [547481736, 0]

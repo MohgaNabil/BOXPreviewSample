@@ -1,0 +1,27 @@
+.cm-s-espresso {background: #FFFFFF; color: #000; line-height: 1.40em;
+  font-size:12px; font-family: "DejaVu Sans Mono", Menlo,"Andale Mono","lucida console","Courier New",monospace !important;}
+.cm-s-espresso div.CodeMirror-selected {background: rgba(165,165,165,0.14); !important;}
+.cm-s-espresso .CodeMirror-gutter {background: #FFFFFF; border-right: 1px dotted #F0F0F0; padding: 0 5px 0 0;}
+.cm-s-espresso .CodeMirror-gutter-text {color: #999;}
+.cm-s-espresso .CodeMirror-cursor {border-left: 1px solid #111111 !important;}
+
+.cm-s-espresso span.cm-comment {color: #ADADAD;}
+.cm-s-espresso span.cm-atom {color: #7653C1; background-color:#F3F2FF }
+.cm-s-espresso span.cm-number {color: #7653C1; background-color:#F3F2FF}
+
+.cm-s-espresso span.cm-property, .cm-s-espresso span.cm-attribute {color: #D4430D;}
+.cm-s-espresso span.cm-keyword {color: #7653C1;}
+.cm-s-espresso span.cm-string {color: #BC670F; background-color:rgba(251,233,173,0.1);}
+
+.cm-s-espresso span.cm-variable {color: #43A202;}
+.cm-s-espresso span.cm-variable-2 {color: #000000;}
+.cm-s-espresso span.cm-def {color: #4C8FC7;}
+.cm-s-espresso span.cm-error {background: #F93232; color: #F9F2CE;}
+.cm-s-espresso span.cm-bracket {color: #000000;}
+.cm-s-espresso span.cm-tag {color: #2F6F9F; background-color:#F4FAFF}
+.cm-s-espresso span.cm-link {color: #7653C1; background-color:#F3F2FF; text-decoration:underline;}
+
+.cm-s-espresso .CodeMirror-matchingbracket {
+  text-decoration: underline;
+  color: black !important;
+}
